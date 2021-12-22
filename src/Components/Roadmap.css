@@ -1,0 +1,8 @@
+.text_head {
+  textalign: center !important;
+  color: #20e298 !important;
+  fontsize: 55px;
+  fontweight: 600 !important;
+  lineheight: 67px !important;
+  letterspacing: 3px !important;
+}
